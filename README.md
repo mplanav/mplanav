@@ -14,10 +14,10 @@ I'm particularly interested in the environments, tools, and applications of **Ar
 
 ## 🛠️ Technologies I'm using or exploring
 
-Languages: JavaScript, Python, C++, Java
-Web: HTML, CSS, React (learning)
-Tools: Git, GitHub, VSCode, Trello, WordPress, Docker (learning), WebSockets (learning)
-Databases: MySQL, MongoDB (beginner level), Django
+- **Languages**: JavaScript, Python, C++, Java
+- **Web**: HTML, CSS, React (learning)
+- **Tools**: Git, GitHub, VSCode, Trello, WordPress, Docker (learning), WebSockets (learning)
+- **Databases**: MySQL, MongoDB (beginner level), Django
 
 ## 📁 Some Projects
 
