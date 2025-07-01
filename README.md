@@ -17,7 +17,7 @@ I'm particularly interested in the environments, tools, and applications of **Ar
 - **Languages**: JavaScript, Python, C++, Java
 - **Web**: HTML, CSS, React (learning)
 - **Tools**: Git, GitHub, VSCode, Trello, WordPress, Docker (learning), WebSockets (learning)
-- **Databases**: MySQL, MongoDB (beginner level), Django
+- **Databases**: MySQL, MongoDB (beginner level), Django, PostgreSQL, SQLAlchemy
 
 ## 📁 Some Projects
 
@@ -28,8 +28,8 @@ I’m currently working on small projects to sharpen my skills. More coming soon
 ## 📫 Let's connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marc-plana-villalb%C3%AD-68299a304/) 
-- 📬 Email: mplanav04@gmail.com
-- 🌍 Portfolio website: *under construction*
+- 📬 Email: marc.planavillalbi@gmail.com
+- 🌍 [Portfolio website](https://mplanav.github.io)
 
 ---
 
