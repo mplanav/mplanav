@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marc Plana Villalbí
 
-I'm an aspiring software developer with a deep curiosity for technology and how it shapes the world. I'm not just focused on software development—I'm eager to learn from every area that sparks innovation.
+I'm an aspiring computer science engineer with a deep curiosity for technology and how it shapes the world. I'm not just focused on software development—I'm eager to learn from every area that sparks innovation.
 
 I'm particularly interested in the environments, tools, and applications of **Artificial Intelligence**, as well as the **management and analysis of data**. I enjoy building things, understanding how systems work, and growing through continuous learning.
 
