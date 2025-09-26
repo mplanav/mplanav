@@ -12,22 +12,24 @@ I'm particularly interested in the environments, tools, and applications of **Ar
 - 🌐 Web technologies – front-end and back-end basics
 - 🧠 Learning new things, always
 
-## 🛠️ Technologies I'm using or exploring
+## 🛠️ Technologies I'm using or learning currently
 
 - **Languages**: JavaScript, Python, C++, Java
-- **Web**: HTML, CSS, React (learning)
-- **Tools**: Git, GitHub, VSCode, Trello, WordPress, Docker (learning), WebSockets (learning)
-- **Databases**: MySQL, MongoDB (beginner level), Django, PostgreSQL, SQLAlchemy
+- **Web**: HTML, CSS, React (learning), Typescript, Astro
+- **Tools**: Git, GitHub, VSCode, Trello, WordPress, Docker, WebSockets (learning)
+- **Databases**: MySQL, PostgreSQL, SQLAlchemy
+- **Frameworks & libraries**: FastAPI, Langchain, Ollama, Flask
 
 ## 📁 Some Projects
 
-I’m currently working on small projects to sharpen my skills. More coming soon!
+I’m currently working on some projects to sharpen my skills. More coming soon!
 
-- [`PATHFINDING`](https://github.com/mplanav/PATHFIDING) – That's my best project so far, where I applicated the most technologies I know.
+- [`PATHFINDING`](https://github.com/mplanav/PATHFIDING) – This is one of my featured projects, where I applicated the most technologies I know.
+You can find out more about my projects on my portfolio: [Portfolio](https://mplanav.github.io)
 
 ## 📫 Let's connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/marc-plana-villalb%C3%AD-68299a304/) 
+- 🌐 [LinkedIn](https://www.linkedin.com/in/marc-plana-villalbi/) 
 - 📬 Email: marc.planavillalbi@gmail.com
 - 🌍 [Portfolio website](https://mplanav.github.io)
 
